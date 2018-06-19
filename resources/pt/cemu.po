@@ -38,11 +38,11 @@ msgstr "Selecione um diretório contendo jogos."
 
 #: GeneralSettings.cpp:161
 msgid "&Add game path"
-msgstr "&Adicionar caminho de jogos"
+msgstr "&Adicionar diretório de jogos"
 
 #: GeneralSettings.cpp:164
 msgid "&Delete game path"
-msgstr "&Deletar caminho de jogos"
+msgstr "&Deletar diretório de jogos"
 
 #: InputPanelClassic.cpp:13 InputPanelClassic.cpp:16 InputPanelClassic.cpp:18
 #: InputPanelGamepad.cpp:13 InputPanelGamepad.cpp:16 InputPanelGamepad.cpp:18
@@ -755,7 +755,7 @@ msgstr "Atualizando lista de jogos..."
 
 #: MainWindow.cpp:2585
 msgid "never"
-msgstr ""
+msgstr "Nunca"
 
 #: debugPPCThreadsWindow.cpp:30
 msgid "PPC threads"
